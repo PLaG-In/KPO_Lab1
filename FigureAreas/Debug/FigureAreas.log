@@ -1,0 +1,7 @@
+﻿  Parser.cpp
+c:\kpo\figureareas\figureareas\parser.cpp(55): warning C4101: radius: неиспользованная локальная переменная
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  Rectangle.cpp
+Parser.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: struct Parser::SPoint __thiscall Parser::ParserPoint(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (?ParserPoint@Parser@@QAE?AUSPoint@1@AAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) в функции "public: class std::shared_ptr<class Figure> __thiscall Parser::ParseString(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (?ParseString@Parser@@QAE?AV?$shared_ptr@VFigure@@@std@@AAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z)
+C:\KPO\FigureAreas\Debug\FigureAreas.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
